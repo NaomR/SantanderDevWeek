@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Santander</string>
+    <string name="txt_saldo_disponivel">Saldo Disponível</string>
+    <string name="saldo_limite">Saldo - Limite:</string>
+    <string name="txt_extrato">Ver Extrato</string>
+    <string name="txt_pagar">PAGAR</string>
+    <string name="txt_transferir">TRANSFERIR</string>
+    <string name="txt_recarga">RECARREGAR</string>
+    <string name="txt_cartao_final">Cartão Final</string>
+    <string name="numero_final_cartao">0045</string>
+</resources>
